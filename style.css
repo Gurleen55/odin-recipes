@@ -1,0 +1,31 @@
+.main-list {
+    background-color: greenyellow;
+    color: aliceblue;
+    font-size: 22px;
+    text-align: center;
+}
+
+h1 {
+    color: chocolate;
+    background-color: black;
+    text-align: center;
+}
+
+.all-images {
+    height :auto;
+    width: 500px;
+
+}
+
+h2 {
+    text-align: center; 
+    background-color: black;
+    color: aqua;  
+}
+
+.description, .ingrediants, .steps {
+    font-size: 25px;
+    color: darkred;
+    font-family: "Open Sans", "PT Sans", Calibri, Tahoma, sans-serif;
+
+}
